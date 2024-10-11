@@ -1,6 +1,6 @@
 {
   "name": "jsrun-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lightweight CLI tool for running JavaScript, TypeScript, and .jsr scripts with automatic dependency management.",
   "main": "bin/index.js",
   "module": "bin/index.js",

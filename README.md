@@ -1,7 +1,7 @@
 # JSRUN
 <div align="center">
 
-<img src="src/jsrun.png" alt="JSRUN Logo" width="200" height="auto">
+<img src="https://github.com/benoitpetit/jsrun-cli/blob/master/src/jsrun.png" alt="JSRUN Logo" width="200" height="auto">
 
 **The ultimate CLI tool for effortlessly running JavaScript, TypeScript, and `.jsr` scripts.**
 

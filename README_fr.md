@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="src/jsrun.png" alt="JSRUN Logo" width="200" height="auto">
+<img src="https://github.com/benoitpetit/jsrun-cli/blob/master/src/jsrun.png" alt="JSRUN Logo" width="200" height="auto">
 
-**L'outil CLI ultime pour exécuter facilement des scripts  `.jsr`, JavaScript, TypeScript.**
+**L'outil CLI ultime pour exécuter facilement des scripts `.jsr`, JavaScript, TypeScript.**
 
 ⚡ Concentrez-vous sur vos scripts et laissez JSRUN s'occuper du reste ! ⚡
 
@@ -135,16 +135,16 @@ Explorez le répertoire `/examples` pour des cas d'utilisation et des exemples d
 ## ❓ FAQ
 
 1. **Pourquoi `.jsr` ?**  
-    `.jsr` met en évidence les scripts spécifiquement conçus pour `jsrun`.
+   `.jsr` met en évidence les scripts spécifiquement conçus pour `jsrun`.
 
 2. **Puis-je utiliser des fichiers `.js` ?**  
-    Oui, les fichiers `.js` sont pris en charge, mais `.jsr` est recommandé pour plus de clarté.
+   Oui, les fichiers `.js` sont pris en charge, mais `.jsr` est recommandé pour plus de clarté.
 
 3. **Où sont installés les modules ?**  
-    Dans le répertoire de cache `~/.jsrun/node_modules`.
+   Dans le répertoire de cache `~/.jsrun/node_modules`.
 
 4. **Comment mettre à jour `jsrun` ?**  
-    Exécutez `npm update -g jsrun-cli`.
+   Exécutez `npm update -g jsrun-cli`.
 
 ---
 

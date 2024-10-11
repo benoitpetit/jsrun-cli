@@ -1,0 +1,5 @@
+import { $ } from 'zx';
+
+await $`mkdir -p ./my_new_folder`;
+await $`echo "This is a new file created by zx." > ./my_new_folder/new_file.txt`;
+console.log('Folder and file created successfully.');

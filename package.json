@@ -1,0 +1,46 @@
+{
+  "name": "jsrun-cli",
+  "version": "0.1.0",
+  "description": "A lightweight CLI tool for running JavaScript, TypeScript, and .jsr scripts with automatic dependency management.",
+  "main": "bin/index.js",
+  "module": "bin/index.js",
+  "type": "module",
+  "bin": {
+    "jsrun": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "node jsrun.test.js",
+    "prepare": "echo \"Prepare script if needed\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benoitpetit/jsrun-cli.git"
+  },
+  "keywords": [
+    "jsrun",
+    "javascript",
+    ".jsr",
+    "script-runner",
+    "dependency-management"
+  ],
+  "author": "benoitpetit",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "ora": "^8.1.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "examples/",
+    "jsrun.config.json"
+  ],
+  "homepage": "https://github.com/benoitpetit/jsrun-cli#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/jsrun-cli/issues"
+  }
+}
